@@ -1,0 +1,28 @@
+[
+  {
+    "title": "TrustXR: Trustworthy Risk Prediction from EHR",
+    "description": "Temporal transformers with uncertainty estimation for early warning of sepsis and AKI across hospitals.",
+    "tags": ["EHR", "Robustness", "Uncertainty"],
+    "demo": "",
+    "code": "https://github.com/emadsalehi",
+    "paper": ""
+  },
+  {
+    "title": "ClinNote-DA: Domain-Adapted Language Models",
+    "description": "Adapting general LMs to clinical notes with minimal labels; concept extraction and document classification.",
+    "tags": ["Clinical NLP", "Domain Adaptation"],
+    "demo": "",
+    "code": "https://github.com/emadsalehi",
+    "paper": ""
+  },
+  {
+    "title": "mHealth-XAI",
+    "description": "Explainable time-series models for passive mental health sensing from wearables, with clinician-facing summaries.",
+    "tags": ["Wearables", "Explainability", "Time Series"],
+    "demo": "",
+    "code": "https://github.com/emadsalehi",
+    "paper": ""
+  }
+]
+
+

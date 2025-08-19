@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Robust Temporal Risk Modeling for EHR under Distribution Shift",
+    "authors": ["E. Salehi", "A. Researcher", "B. Clinician"],
+    "venue": "Journal of Biomedical Informatics",
+    "year": 2024,
+    "type": "Journal",
+    "keywords": ["EHR", "robustness", "temporal modeling"],
+    "doi": "https://doi.org/10.0000/example-jbi-2024"
+  },
+  {
+    "title": "Domain-Adaptive Clinical Language Models for Note Understanding",
+    "authors": ["E. Salehi", "C. NLP", "D. Scientist"],
+    "venue": "ACL ClinicalNLP Workshop",
+    "year": 2023,
+    "type": "Conference",
+    "keywords": ["clinical nlp", "domain adaptation"]
+  },
+  {
+    "title": "Interpretable mHealth Models for Passive Mental Health Sensing",
+    "authors": ["E. Salehi", "E. Wearables", "F. Psych"],
+    "venue": "arXiv",
+    "year": 2022,
+    "type": "Preprint",
+    "keywords": ["wearables", "explainability", "mental health"]
+  }
+]
+
+
