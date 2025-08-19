@@ -25,8 +25,9 @@
   });
 })();
 
-// Footer year
-document.getElementById('year').textContent = new Date().getFullYear();
+// Footer year (optional element)
+const yearEl = document.getElementById('year');
+if (yearEl) yearEl.textContent = new Date().getFullYear();
 
 // Reveal on scroll
 (function initReveal() {
@@ -139,7 +140,7 @@ function normalize(str) {
     gridEl.innerHTML = '';
     for (const p of filtered) {
       const card = document.createElement('article');
-      card.className = 'project-card reveal';
+      card.className = 'project-card reveal visible';
       card.innerHTML = `
         <div class="project-thumb" style="background-image: linear-gradient(135deg, var(--accent), transparent), url('${p.thumbnail || 'assets/placeholder.svg'}')"></div>
         <div class="project-body">

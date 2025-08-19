@@ -1,4 +1,4 @@
-## Emad Salehi — Portfolio (Health Informatics)
+## Emad Deilam Salehi — Portfolio (Health Informatics)
 
 Modern, minimal personal site with interactive Publications and Projects. Built with vanilla HTML/CSS/JS for portability and GitHub Pages readiness.
 
@@ -8,5 +8,4 @@ Use any static server to test locally (needed due to fetch of JSON files):
 
 ```bash
 python3 -m http.server 9000 --bind 127.0.0.1
-# open http://127.0.0.1:9000/
 ```
