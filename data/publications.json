@@ -1,29 +1,29 @@
 [
   {
-    "title": "Robust Temporal Risk Modeling for EHR under Distribution Shift",
-    "authors": ["E. Salehi", "A. Researcher", "B. Clinician"],
-    "venue": "Journal of Biomedical Informatics",
-    "year": 2024,
-    "type": "Journal",
-    "keywords": ["EHR", "robustness", "temporal modeling"],
-    "doi": "https://doi.org/10.0000/example-jbi-2024"
-  },
-  {
-    "title": "Domain-Adaptive Clinical Language Models for Note Understanding",
-    "authors": ["E. Salehi", "C. NLP", "D. Scientist"],
-    "venue": "ACL ClinicalNLP Workshop",
-    "year": 2023,
+    "title": "Generative-AI Solutions for Connecting Seniors and Healthcare Providers",
+    "authors": ["E. Deilam Salehi", "Y. Yuan", "K. Sartipi"],
+    "venue": "IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS)",
+    "year": 2025,
     "type": "Conference",
-    "keywords": ["clinical nlp", "domain adaptation"]
+    "keywords": ["Generative AI", "Healthcare", "Conversational Agents"],
+    "doi": "https://doi.org/10.1109/CBMS65348.2025.00092"
   },
   {
-    "title": "Interpretable mHealth Models for Passive Mental Health Sensing",
-    "authors": ["E. Salehi", "E. Wearables", "F. Psych"],
-    "venue": "arXiv",
-    "year": 2022,
-    "type": "Preprint",
-    "keywords": ["wearables", "explainability", "mental health"]
+    "title": "Workshops & Training Courses",
+    "authors": ["E. Deilam Salehi"],
+    "venue": "Drilling Magazine (11)",
+    "year": 2019,
+    "type": "Magazine",
+    "keywords": ["Training", "Workshops", "Oil and Gas"],
+    "doi": ""
+  },
+  {
+    "title": "Ways to Analyze the Operation Better",
+    "authors": ["E. Deilam Salehi"],
+    "venue": "Drilling Magazine (11)",
+    "year": 2019,
+    "type": "Magazine",
+    "keywords": ["Operations", "Oil and Gas"],
+    "doi": ""
   }
 ]
-
-

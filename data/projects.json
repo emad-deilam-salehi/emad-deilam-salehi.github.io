@@ -1,28 +1,26 @@
 [
   {
-    "title": "TrustXR: Trustworthy Risk Prediction from EHR",
-    "description": "Temporal transformers with uncertainty estimation for early warning of sepsis and AKI across hospitals.",
-    "tags": ["EHR", "Robustness", "Uncertainty"],
+    "title": "Generative AI for Older Adult Healthcare Connectivity",
+    "description": "Developed an MVP of a generative AI chatbot and dashboard for real-time healthcare communication. Iteratively enhancing conversational capabilities with context-awareness, memory, and adaptive responses. Conducting co-design sessions with older adults and healthcare providers.",
+    "tags": ["Generative AI", "Healthcare", "Conversational Agents", "Human-Centered Design"],
     "demo": "",
-    "code": "https://github.com/emad-deilam-salehi",
-    "paper": ""
+    "code": "https://github.com/Emad-Salehi",
+    "paper": "https://doi.org/10.1109/CBMS65348.2025.00092"
   },
   {
-    "title": "ClinNote-DA: Domain-Adapted Language Models",
-    "description": "Adapting general LMs to clinical notes with minimal labels; concept extraction and document classification.",
-    "tags": ["Clinical NLP", "Domain Adaptation"],
+    "title": "Developers’ Cognitive Biases during Code Review",
+    "description": "Mined GitHub pull requests and review comments to study developers’ biases during code review. Applied sampling strategies and began automating dataset analysis using NLP and ML.",
+    "tags": ["Software Engineering", "NLP", "Bias", "Code Review"],
     "demo": "",
-    "code": "https://github.com/emad-deilam-salehi",
-    "paper": ""
+    "code": "",
+    "paper": "https://drive.google.com/file/d/18o6L1uspLTZ9jsnNZOPaaea-7rmC83Ob/view?usp=sharing"
   },
   {
-    "title": "mHealth-XAI",
-    "description": "Explainable time-series models for passive mental health sensing from wearables, with clinician-facing summaries.",
-    "tags": ["Wearables", "Explainability", "Time Series"],
+    "title": "GitHub Reviewer Recommendation",
+    "description": "Designed a model to recommend reviewers for GitHub pull requests using topic modeling (NMF, LDA), social network analysis, and PageRank.",
+    "tags": ["Recommender Systems", "GitHub", "Topic Modeling"],
     "demo": "",
-    "code": "https://github.com/emad-deilam-salehi",
-    "paper": ""
+    "code": "",
+    "paper": "https://drive.google.com/file/d/1C34GOpZ2p89RukrXk8Bsl9hBDMrfJP_Y/view?usp=sharing"
   }
 ]
-
-
