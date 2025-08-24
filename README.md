@@ -1,4 +1,4 @@
-## Emad Deilam Salehi — Portfolio (Health Informatics)
+## Emad Deilam Salehi — Portfolio
 
 Modern, minimal personal site with interactive Publications and Projects. Built with vanilla HTML/CSS/JS for portability and GitHub Pages readiness.
 
